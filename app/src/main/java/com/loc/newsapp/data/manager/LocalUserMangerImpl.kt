@@ -1,4 +1,4 @@
-package com.loc.newsapp.data.manger
+package com.loc.newsapp.data.manager
 
 import android.content.Context
 import android.util.Log
